@@ -1,0 +1,85 @@
+idplayers,name,club,position
+DEF1,Rayan Ait Nouri,WOL,DEF
+DEF10,Timothy Castagne,LEI,DEF
+DEF11,Jannik Vestergaard,SOU,DEF
+DEF12,Reece James,CHE,DEF
+DEF13,Gabriel Magalhães,ARS,DEF
+DEF14,Thiago Thiago,CHE,DEF
+DEF15,Ola Aina,FUL,DEF
+DEF16,Aymeric Laporte,MCI,DEF
+DEF17,Ezri Konsa Ngoyo,AVL,DEF
+DEF18,Héctor Bellerín,ARS,DEF
+DEF19,Kyle Walker,MCI,DEF
+DEF2,Benjamin Chilwell,CHE,DEF
+DEF20,Aaron Cresswell,WHU,DEF
+DEF21,Nélson Cabral Semedo,WOL,DEF
+DEF22,Lucas Digne,EVE,DEF
+DEF23,Fabián Balbuena,WHU,DEF
+DEF24,Vladimir Coufal,WHU,DEF
+DEF25,Andrew Robertson,LIV,DEF
+DEF26,Scott Dann,CRY,DEF
+DEF27,James Justion,LEI,DEF
+DEF28,Matt Targett,AVL,DEF
+DEF3,Kurt Zouma,CHE,DEF
+DEF4,Max Kilman,WOL,DEF
+DEF5,João Pedro Cavaco Cancelo,MCI,DEF
+DEF6,Serge Aurier,TOT,DEF
+DEF7,Romain Saïss,WOL,DEF
+DEF8,Tyrone Mings,AVL,DEF
+DEF9,Joachim Andersen,FUL,DEF
+FWD1,Harry Kane,TOT,FWD
+FWD10,Raúl Jiménez,WOL,FWD
+FWD11,Che Adams,SOU,FWD
+FWD12,Richarlison de Andrade,EVE,FWD
+FWD13,Karlan Grant,WBA,FWD
+FWD14,Alexandre Lacazette,ARS,FWD
+FWD15,Aleksandar Mitrovi?,FUL,FWD
+FWD16,Tammy Abraham,CHE,FWD
+FWD2,Jamie Vardy,LEI,FWD
+FWD3,Callum Wilson,NEW,FWD
+FWD4,Dominic Calvert-Lewin,EVE,FWD
+FWD5,Patrick Bamford,LEE,FWD
+FWD6,Neal Maupay,BHA,FWD
+FWD7,Gabriel Fernando de Jesus,MCI,FWD
+FWD8,Ollie Watkins,AVL,FWD
+FWD9,Timo Werner,CHE,FWD
+GK1,Edouard Mendy,CHE,GK
+GK10,Illan Meslier,LEE,GK
+GK11,Nick Pope,BUR,GK
+GK2,Emiliano Martínez,AVL,GK
+GK3,Karl Darlow,NEW,GK
+GK4,Rui Pedro dos Santos Patrício,WOL,GK
+GK5,Alisson Ramses Becker,LIV,GK
+GK6,Kasper Schmeichel,LEI,GK
+GK7,Alex McCarthy,SOU,GK
+GK8,Bernd Leno,ARS,GK
+GK9,Lukasz Fabianski,WHU,GK
+MID1,Heung-Min Son,TOT,MID
+MID10,James Ward-Prowse,SOU,MID
+MID11,Pablo Fornals,WHU,MID
+MID12,Hakim Ziyech,CHE,MID
+MID13,Raheem Sterling,MCI,MID
+MID14,John McGinn,AVL,MID
+MID15,Diogo Jota,LIV,MID
+MID16,Marcus Rashford,MUN,MID
+MID17,Gareth Bale,TOT,MID
+MID18,Hélder Wander Sousa de Azevedo e Costa,LEE,MID
+MID19,Kevin De Bruyne,MCI,MID
+MID2,Jack Grealish,AVL,MID
+MID20,Harvey Barnes,LEI,MID
+MID21,Jarrod Bowen,WHU,MID
+MID22,Daniel Castelo Podence,WOL,MID
+MID23,Mateusz Klich,LEE,MID
+MID24,Jack Harrison,LEE,MID
+MID25,Youri Tielemans,LEI,MID
+MID26,Stuart Armstrong,SOU,MID
+MID27,Ross Barkley,AVL,MID
+MID28,Riyad Mahrez,MCI,MID
+MID29,Phil Foden,MCI,MID
+MID3,Conor Hourihane,AVL,MID
+MID4,Mohamed Salah,LIV,MID
+MID5,Wilfried Zaha,CRY,MID
+MID6,James Rodríguez,EVE,MID
+MID7,Sadio Mané,LIV,MID
+MID8,Jorge Luiz Frello Filho,CHE,MID
+MID9,Bruno Miguel Borges Fernandes,MUN,MID
