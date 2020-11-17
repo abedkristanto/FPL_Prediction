@@ -1,5 +1,5 @@
 # FPL_Prediction
-Fantasy English Premier League points prediction  using Weighted Moving Average Prediction technique
+## Fantasy English Premier League points prediction  using Weighted Moving Average Prediction technique
 **FPL_Points_Prediction.ipynb:** The main notebook of this projects, contain the code and the steps explanation
 **fdr.csv:** Fixture Difficulty Rating (FDR) Dataset, contain fdr data for each clubs' fixture. This dataset will be updated every gameweek in 2020/2021 season of English Premier League.
 **performance.csv:** Players' performance dataset for each gameweek, contain points and players statistic. This dataset will be updated every gameweek in 2020/2021 season of English Premier League.
