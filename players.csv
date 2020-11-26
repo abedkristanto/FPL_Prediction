@@ -20,7 +20,9 @@ DEF25,Andrew Robertson,LIV,DEF
 DEF26,Scott Dann,CRY,DEF
 DEF27,James Justion,LEI,DEF
 DEF28,Matt Targett,AVL,DEF
+DEF29,Sergio Reguilón,TOT,DEF
 DEF3,Kurt Zouma,CHE,DEF
+DEF30,Arthur Masuaku,WHU,DEF
 DEF4,Max Kilman,WOL,DEF
 DEF5,João Pedro Cavaco Cancelo,MCI,DEF
 DEF6,Serge Aurier,TOT,DEF
@@ -35,6 +37,7 @@ FWD13,Karlan Grant,WBA,FWD
 FWD14,Alexandre Lacazette,ARS,FWD
 FWD15,Aleksandar Mitrovi?,FUL,FWD
 FWD16,Tammy Abraham,CHE,FWD
+FWD17,Danny Welbeck,BHA,FWD
 FWD2,Jamie Vardy,LEI,FWD
 FWD3,Callum Wilson,NEW,FWD
 FWD4,Dominic Calvert-Lewin,EVE,FWD
@@ -46,6 +49,7 @@ FWD9,Timo Werner,CHE,FWD
 GK1,Edouard Mendy,CHE,GK
 GK10,Illan Meslier,LEE,GK
 GK11,Nick Pope,BUR,GK
+GK12,Hugo Lloris,TOT,GK
 GK2,Emiliano Martínez,AVL,GK
 GK3,Karl Darlow,NEW,GK
 GK4,Rui Pedro dos Santos Patrício,WOL,GK
@@ -77,6 +81,10 @@ MID27,Ross Barkley,AVL,MID
 MID28,Riyad Mahrez,MCI,MID
 MID29,Phil Foden,MCI,MID
 MID3,Conor Hourihane,AVL,MID
+MID30,Theo Walcott,SOU,MID
+MID31,Solomon March,BHA,MID
+MID32,Pedro Lomba Neto,WOL,MID
+MID33,Mason Mount,CHE,MID
 MID4,Mohamed Salah,LIV,MID
 MID5,Wilfried Zaha,CRY,MID
 MID6,James Rodríguez,EVE,MID

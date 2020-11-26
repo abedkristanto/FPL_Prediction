@@ -8,6 +8,7 @@ ARSGW06,ARS,Arsenal,6,3
 ARSGW07,ARS,Arsenal,7,4
 ARSGW08,ARS,Arsenal,8,2
 ARSGW09,ARS,Arsenal,9,3
+ARSGW10,ARS,Arsenal,10,3
 AVLGW02,AVL,Aston Villa,2,3
 AVLGW03,AVL,Aston Villa,3,2
 AVLGW04,AVL,Aston Villa,4,4
@@ -16,6 +17,7 @@ AVLGW06,AVL,Aston Villa,6,2
 AVLGW07,AVL,Aston Villa,7,3
 AVLGW08,AVL,Aston Villa,8,4
 AVLGW09,AVL,Aston Villa,9,2
+AVLGW10,AVL,Aston Villa,10,3
 BHAGW01,BHA,Brighton and Hove Albion,1,3
 BHAGW02,BHA,Brighton and Hove Albion,2,3
 BHAGW03,BHA,Brighton and Hove Albion,3,4
@@ -25,6 +27,7 @@ BHAGW06,BHA,Brighton and Hove Albion,6,2
 BHAGW07,BHA,Brighton and Hove Albion,7,4
 BHAGW08,BHA,Brighton and Hove Albion,8,3
 BHAGW09,BHA,Brighton and Hove Albion,9,3
+BHAGW10,BHA,Brighton and Hove Albion,10,4
 BURGW02,BUR,Burnley,2,4
 BURGW03,BUR,Burnley,3,3
 BURGW04,BUR,Burnley,4,3
@@ -33,6 +36,7 @@ BURGW06,BUR,Burnley,6,3
 BURGW07,BUR,Burnley,7,3
 BURGW08,BUR,Burnley,8,2
 BURGW09,BUR,Burnley,9,2
+BURGW10,BUR,Burnley,10,5
 CHEGW01,CHE,Chelsea,1,2
 CHEGW02,CHE,Chelsea,2,4
 CHEGW03,CHE,Chelsea,3,2
@@ -42,6 +46,7 @@ CHEGW06,CHE,Chelsea,6,4
 CHEGW07,CHE,Chelsea,7,3
 CHEGW08,CHE,Chelsea,8,3
 CHEGW09,CHE,Chelsea,9,3
+CHEGW10,CHE,Chelsea,10,4
 CRYGW01,CRY,Crystal Palace,1,3
 CRYGW02,CRY,Crystal Palace,2,4
 CRYGW03,CRY,Crystal Palace,3,2
@@ -51,6 +56,7 @@ CRYGW06,CRY,Crystal Palace,6,2
 CRYGW07,CRY,Crystal Palace,7,3
 CRYGW08,CRY,Crystal Palace,8,2
 CRYGW09,CRY,Crystal Palace,9,2
+CRYGW10,CRY,Crystal Palace,10,2
 EVEGW01,EVE,Everton,1,4
 EVEGW02,EVE,Everton,2,2
 EVEGW03,EVE,Everton,3,2
@@ -60,6 +66,7 @@ EVEGW06,EVE,Everton,6,2
 EVEGW07,EVE,Everton,7,3
 EVEGW08,EVE,Everton,8,4
 EVEGW09,EVE,Everton,9,2
+EVEGW10,EVE,Everton,10,2
 FULGW01,FUL,Fulham,1,3
 FULGW02,FUL,Fulham,2,2
 FULGW03,FUL,Fulham,3,2
@@ -69,6 +76,7 @@ FULGW06,FUL,Fulham,6,2
 FULGW07,FUL,Fulham,7,2
 FULGW08,FUL,Fulham,8,2
 FULGW09,FUL,Fulham,9,3
+FULGW10,FUL,Fulham,10,4
 LEEGW01,LEE,Leeds United,1,5
 LEEGW02,LEE,Leeds United,2,2
 LEEGW03,LEE,Leeds United,3,4
@@ -78,6 +86,7 @@ LEEGW06,LEE,Leeds United,6,2
 LEEGW07,LEE,Leeds United,7,3
 LEEGW08,LEE,Leeds United,8,2
 LEEGW09,LEE,Leeds United,9,4
+LEEGW10,LEE,Leeds United,10,3
 LEIGW01,LEI,Leicester City,1,2
 LEIGW02,LEI,Leicester City,2,3
 LEIGW03,LEI,Leicester City,3,5
@@ -87,6 +96,7 @@ LEIGW06,LEI,Leicester City,6,4
 LEIGW07,LEI,Leicester City,7,2
 LEIGW08,LEI,Leicester City,8,3
 LEIGW09,LEI,Leicester City,9,5
+LEIGW10,LEI,Leicester City,10,2
 LIVGW01,LIV,Liverpool,1,2
 LIVGW02,LIV,Liverpool,2,4
 LIVGW03,LIV,Liverpool,3,3
@@ -96,6 +106,7 @@ LIVGW06,LIV,Liverpool,6,3
 LIVGW07,LIV,Liverpool,7,2
 LIVGW08,LIV,Liverpool,8,5
 LIVGW09,LIV,Liverpool,9,3
+LIVGW10,LIV,Liverpool,10,2
 MCIGW02,MCI,Manchester City,2,3
 MCIGW03,MCI,Manchester City,3,3
 MCIGW04,MCI,Manchester City,4,2
@@ -104,6 +115,7 @@ MCIGW06,MCI,Manchester City,6,2
 MCIGW07,MCI,Manchester City,7,4
 MCIGW08,MCI,Manchester City,8,4
 MCIGW09,MCI,Manchester City,9,4
+MCIGW10,MCI,Manchester City,10,2
 MUNGW02,MUN,Manchester United,2,2
 MUNGW03,MUN,Manchester United,3,2
 MUNGW04,MUN,Manchester United,4,3
@@ -112,6 +124,7 @@ MUNGW06,MUN,Manchester United,6,3
 MUNGW07,MUN,Manchester United,7,3
 MUNGW08,MUN,Manchester United,8,3
 MUNGW09,MUN,Manchester United,9,2
+MUNGW10,MUN,Manchester United,10,3
 NEWGW01,NEW,Newcastle United,1,2
 NEWGW02,NEW,Newcastle United,2,2
 NEWGW03,NEW,Newcastle United,3,4
@@ -121,6 +134,7 @@ NEWGW06,NEW,Newcastle United,6,3
 NEWGW07,NEW,Newcastle United,7,2
 NEWGW08,NEW,Newcastle United,8,2
 NEWGW09,NEW,Newcastle United,9,4
+NEWGW10,NEW,Newcastle United,10,3
 SHUGW01,SHU,Sheffield United,1,3
 SHUGW02,SHU,Sheffield United,2,2
 SHUGW03,SHU,Sheffield United,3,2
@@ -130,6 +144,7 @@ SHUGW06,SHU,Sheffield United,6,5
 SHUGW07,SHU,Sheffield United,7,4
 SHUGW08,SHU,Sheffield United,8,4
 SHUGW09,SHU,Sheffield United,9,3
+SHUGW10,SHU,Sheffield United,10,2
 SOUGW01,SOU,Southampton,1,2
 SOUGW02,SOU,Southampton,2,3
 SOUGW03,SOU,Southampton,3,3
@@ -139,6 +154,7 @@ SOUGW06,SOU,Southampton,6,2
 SOUGW07,SOU,Southampton,7,2
 SOUGW08,SOU,Southampton,8,2
 SOUGW09,SOU,Southampton,9,3
+SOUGW10,SOU,Southampton,10,4
 TOTGW01,TOT,Tottenham Hotspur,1,2
 TOTGW02,TOT,Tottenham Hotspur,2,2
 TOTGW03,TOT,Tottenham Hotspur,3,2
@@ -148,6 +164,7 @@ TOTGW06,TOT,Tottenham Hotspur,6,3
 TOTGW07,TOT,Tottenham Hotspur,7,2
 TOTGW08,TOT,Tottenham Hotspur,8,2
 TOTGW09,TOT,Tottenham Hotspur,9,4
+TOTGW10,TOT,Tottenham Hotspur,10,4
 WBAGW01,WBA,West Bromwich Albion,1,3
 WBAGW02,WBA,West Bromwich Albion,2,3
 WBAGW03,WBA,West Bromwich Albion,3,3
@@ -157,6 +174,7 @@ WBAGW06,WBA,West Bromwich Albion,6,2
 WBAGW07,WBA,West Bromwich Albion,7,2
 WBAGW08,WBA,West Bromwich Albion,8,3
 WBAGW09,WBA,West Bromwich Albion,9,4
+WBAGW10,WBA,West Bromwich Albion,10,2
 WHUGW01,WHU,West Ham United,1,2
 WHUGW02,WHU,West Ham United,2,4
 WHUGW03,WHU,West Ham United,3,3
@@ -166,6 +184,7 @@ WHUGW06,WHU,West Ham United,6,4
 WHUGW07,WHU,West Ham United,7,5
 WHUGW08,WHU,West Ham United,8,2
 WHUGW09,WHU,West Ham United,9,3
+WHUGW10,WHU,West Ham United,10,3
 WOLGW01,WOL,Wolverhampton Wanderers,1,4
 WOLGW02,WOL,Wolverhampton Wanderers,2,4
 WOLGW03,WOL,Wolverhampton Wanderers,3,2
@@ -175,3 +194,4 @@ WOLGW06,WOL,Wolverhampton Wanderers,6,2
 WOLGW07,WOL,Wolverhampton Wanderers,7,2
 WOLGW08,WOL,Wolverhampton Wanderers,8,4
 WOLGW09,WOL,Wolverhampton Wanderers,9,2
+WOLGW10,WOL,Wolverhampton Wanderers,10,3
